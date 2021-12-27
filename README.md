@@ -1,5 +1,7 @@
-### Hi there 👋
+![github-profile](https://user-images.githubusercontent.com/77926563/147447198-89c58801-ea0c-4d25-a0bf-fd97cfc7fcad.png)
 
+
+# Hi there 👋
 <!--
 **cjmaret/cjmaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

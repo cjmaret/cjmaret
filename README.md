@@ -3,29 +3,23 @@
 
 # Hey! I'm Colin 👋
 
+---
 
-## Recent projects
-- [News Explorer](https://github.com/cjmaret/news-explorer-frontend)
-- [Apiary](https://github.com/cjmaret/apiary)
-- [The Planets](planets-fact-site-react )
+## Recent projects:
+ - [News Explorer](https://github.com/cjmaret/news-explorer-frontend)📰
+ - [Apiary](https://github.com/cjmaret/apiary)🐝
+ - [The Planets](https://github.com/cjmaret/planets-fact-site-react)🪐
 
-## Check out my portfolio [here](colinmaretsky.com)
+---
 
+## Check out ✨[my portfolio](colinmaretsky.com)✨
 
-[![Colins's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjmaret)](https://github.com/cjmaret&show_icons=true&theme=dracula)
+---
 
+## Find me on:
+ - [Linkedin](https://www.linkedin.com/in/colin-maretsky/)
+- [Dribbble](https://dribbble.com/cjmaret)
 
-<!--
-**cjmaret/cjmaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjmaret&show_icons=true&hide=stars)

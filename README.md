@@ -6,6 +6,7 @@
 ---
 
 ## Recent projects:
+ - [The Confectionery](https://theconfectionery.tv/)🍬
  - [News Explorer](https://github.com/cjmaret/news-explorer-frontend)📰
  - [Apiary](https://github.com/cjmaret/apiary)🐝
  - [The Planets](https://github.com/cjmaret/planets-fact-site-react)🪐

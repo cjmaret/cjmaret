@@ -12,7 +12,7 @@
 
 ---
 
-## Check out ✨[my portfolio](colinmaretsky.com)✨
+## Check out ✨[my portfolio](https://colinmaretsky.com)✨
 
 ---
 

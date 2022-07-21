@@ -6,6 +6,7 @@
 ---
 
 ## Recent projects:
+ - [History Muffin E-commerce store](https://historymuffin.com) 🧁
  - [The Confectionery](https://theconfectionery.tv/) 🍬
  - [News Explorer](https://github.com/cjmaret/news-explorer-frontend) 📰
  - [Apiary](https://github.com/cjmaret/apiary) 🐝

@@ -9,9 +9,9 @@
  - [GoFundYourself Fundraising Site](https://gofundyourself.lol) 🦩
  - [History Muffin E-commerce store](https://historymuffin.com) 🧁
  - [The Confectionery](https://theconfectionery.tv/) 🍬
- - [News Explorer](https://github.com/cjmaret/news-explorer-frontend) 📰
+<!--  - [News Explorer](https://github.com/cjmaret/news-explorer-frontend) 📰
  - [Apiary](https://github.com/cjmaret/apiary) 🐝
- - [The Planets](https://github.com/cjmaret/planets-fact-site-react) 🪐
+ - [The Planets](https://github.com/cjmaret/planets-fact-site-react) 🪐 -->
 
 ---
 

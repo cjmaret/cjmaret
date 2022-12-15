@@ -6,6 +6,7 @@
 ---
 
 ## Recent projects:
+ - [GoFundYourself Fundraising Site](https://gofundyourself.lol) 🦩
  - [History Muffin E-commerce store](https://historymuffin.com) 🧁
  - [The Confectionery](https://theconfectionery.tv/) 🍬
  - [News Explorer](https://github.com/cjmaret/news-explorer-frontend) 📰
@@ -19,7 +20,7 @@
 ---
 
 ## Find me on:
- - [Linkedin](https://www.linkedin.com/in/colin-maretsky/)
+- [Linkedin](https://www.linkedin.com/in/colin-maretsky/)
 - [Dribbble](https://dribbble.com/cjmaret)
 
 ---

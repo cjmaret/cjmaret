@@ -22,7 +22,3 @@
 ## Find me on:
 - [Linkedin](https://www.linkedin.com/in/colin-maretsky/)
 - [Dribbble](https://dribbble.com/cjmaret)
-
----
-
-![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjmaret&show_icons=true&hide=stars)
